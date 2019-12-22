@@ -1,0 +1,8 @@
+﻿  Source.cpp
+c:\users\mohamed beshri amer\source\repos\ctestingb\ctestingb\circle.h(14): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+c:\users\mohamed beshri amer\source\repos\ctestingb\ctestingb\source.cpp(5): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+c:\users\mohamed beshri amer\source\repos\ctestingb\ctestingb\regtangle.h(12): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
+c:\users\mohamed beshri amer\source\repos\ctestingb\ctestingb\source.cpp(6): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+c:\users\mohamed beshri amer\source\repos\ctestingb\ctestingb\triangle.h(12): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+c:\users\mohamed beshri amer\source\repos\ctestingb\ctestingb\square.h(13): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
+  CTestingB.vcxproj -> C:\Users\Mohamed Beshri Amer\source\repos\CTestingB\Debug\CTestingB.exe
